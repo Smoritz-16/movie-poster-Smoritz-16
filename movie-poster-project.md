@@ -22,7 +22,7 @@ Style: hyper-realistic, cinematic lighting, dramatic shadows, high contrast, dar
 Typography: bold, weathered stone-like title text reading ‘THE FIFTH SEASON’ at the bottom. Include a subtle tagline like ‘The Earth is alive. And it is angry.’
 Color palette: muted grays, blacks, deep reds, and glowing amber highlights.
 Mood: apocalyptic, mysterious, powerful, and tense.
-- Step 2: *Documented first two AI attempts*  
+- Step 2: *Documented first two AI attempts*  blob:https://gemini.google.com/670faf6f-f3a4-4a5e-b512-f4aa6ed972d4 
 - Step 3: *Documented final AI attempts*  
 - Step 4: *Added Photoshop modifications*  
 - Step 5: *Completed reflection*  
