@@ -14,7 +14,14 @@ At each step, save and commit your work in GitHub Desktop.
 4. Click **Push origin** (top bar) to upload to GitHub.com.  
 
 **Commit Messages for Each Step**
-- Step 1: *Completed creative brief*  
+- Step 1: *Completed creative brief*  Create a cinematic, high-detail movie poster for The Fifth Season, a dark epic fantasy set in a broken, geologically unstable world. The composition features three central characters: Essun, a hardened middle-aged woman with intense, determined eyes; Damaya, a young girl with a fearful yet powerful presence; and Syenite, a confident and commanding young woman. Position them in a triangular arrangement to symbolize their connection.
+In the background, depict a vast, fractured supercontinent resembling the Stillness—ash-filled skies, cracked earth, and distant volcanic eruptions. Include a looming, ominous Fulcrum structure: a tall, dark, monolithic tower with sharp, oppressive architecture.
+Floating above the landscape, show massive, glowing obelisks suspended in the sky, radiating eerie light and ancient power.
+Add environmental details like ash storms, seismic fissures glowing with magma, and a dim, reddish like light filtering through clouds.
+Style: hyper-realistic, cinematic lighting, dramatic shadows, high contrast, dark fantasy tone.
+Typography: bold, weathered stone-like title text reading ‘THE FIFTH SEASON’ at the bottom. Include a subtle tagline like ‘The Earth is alive. And it is angry.’
+Color palette: muted grays, blacks, deep reds, and glowing amber highlights.
+Mood: apocalyptic, mysterious, powerful, and tense.
 - Step 2: *Documented first two AI attempts*  
 - Step 3: *Documented final AI attempts*  
 - Step 4: *Added Photoshop modifications*  
